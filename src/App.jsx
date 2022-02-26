@@ -1,4 +1,5 @@
 import React, { useContext } from "react";
+import About from "./components/about/About";
 import Intro from './components/intro/Intro'
 import Toggle from './components/toggle/Toggle'
 import { ThemeContext } from "./context";
@@ -15,6 +16,7 @@ const App = () => {
     >
         <Toggle/>
         <Intro/>
+        <About/>
     </div>
   )
 }
