@@ -6,32 +6,31 @@ import Address from "../../img/address.png";
 import emailjs from "@emailjs/browser";
 import {ThemeContext} from "../../context";
 
-const Contact = () =>{
+const Contact = () => {
     const formRef = useRef();
-    const [done,setDone] = useState(false);
+    const [done, setDone] = useState(false)
     const theme = useContext(ThemeContext);
     const darkMode = theme.state.darkMode;
-
-    const handleSubmit = (e) =>{
-        e.preventDefault();
-        emailjs
-            .sendForm(
-                "service_zmxuacj",
-                "template_9epvpwa",
-                formRef.current,
-                "user_ouBZaLJRQJFJeXuz9"
-            )
-            .then(
-                (result)=>{
-                    console.log(result.text);
-                    setDone(true);
-                },
-                (error)=>{
-                    console.log(error.text);
-                }
-            );
-    }
-}
+  
+    const handleSubmit = (e) => {
+      e.preventDefault();
+      emailjs
+        .sendForm(
+          "service_zmxuacj",
+          "template_9epvpwa",
+          formRef.current,
+          "user_ouBZaLJRQJFJeXuz9"
+        )
+        .then(
+          (result) => {
+            console.log(result.text);
+            setDone(true)
+          },
+          (error) => {
+            console.log(error.text);
+          }
+        );
+    };
 
 return (
     <div className="c">
@@ -70,5 +69,5 @@ return (
       </div>
     </div>
   );
-
-export default Contact;
+}
+export default Contact
