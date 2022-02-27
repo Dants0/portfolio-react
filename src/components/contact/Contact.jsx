@@ -4,7 +4,6 @@ import './contact.css';
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
-// import emailjs from "@emailjs/browser";
 import emailjs from "emailjs-com";
 import {ThemeContext} from "../../context";
 
@@ -52,13 +51,13 @@ return (
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Rua professor aloisio de carvalho filho, 251, Salvador Ba
+              Rua Professor Aloisio De Carvalho Filho, 251, Salvador Ba
             </div>
           </div>
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>escrever</b> escrever
+            <b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, soluta culpa quae, provident voluptas eligendi nam atque nisi odio amet et accusamus eveniet repudiandae nemo expedita quasi. Quasi, esse ullam.</b> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda nulla tempora, quod ad ipsam sint consectetur autem. Iste dolorum reiciendis sapiente ea nam expedita, illo quia molestias? Sed, iusto atque.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
@@ -66,7 +65,7 @@ return (
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
             <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
             <button>Submit</button>
-            {done && "Thank you..."}
+            {done && "Sending..."}
           </form>
         </div>
       </div>
