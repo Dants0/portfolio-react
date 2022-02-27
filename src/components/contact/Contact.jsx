@@ -1,12 +1,15 @@
+import{ init } from '@emailjs/browser';
 import React, {useRef, useState, useContext} from "react";
 import './contact.css';
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
-import emailjs from "@emailjs/browser";
+// import emailjs from "@emailjs/browser";
+import emailjs from "emailjs-com";
 import {ThemeContext} from "../../context";
 
 const Contact = () => {
+    init("ouBZaLJRQJFJeXuz9");
     const formRef = useRef();
     const [done, setDone] = useState(false)
     const theme = useContext(ThemeContext);
@@ -19,7 +22,7 @@ const Contact = () => {
           "service_zmxuacj",
           "template_9epvpwa",
           formRef.current,
-          "user_ouBZaLJRQJFJeXuz9"
+          "ouBZaLJRQJFJeXuz9"
         )
         .then(
           (result) => {
@@ -70,4 +73,4 @@ return (
     </div>
   );
 }
-export default Contact
+export default Contact;
