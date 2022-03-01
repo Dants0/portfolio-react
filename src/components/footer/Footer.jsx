@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="f-wrapper">
                 <div className="f-bottom">
                     <div className="f-copyright">
-                        
+                        <h1>Dants0</h1>
                     </div>
                 </div>
             </div>
