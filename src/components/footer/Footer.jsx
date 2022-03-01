@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="f-wrapper">
                 <div className="f-bottom">
                     <div className="f-items">
-                        <p>Social Links</p>
+                        <p className="f-links">Social Links</p>
                         <ul>
                           <li className="items">
                           <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/><a href="https://github.com/Dants0">Github</a>
