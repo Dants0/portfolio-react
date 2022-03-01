@@ -1,0 +1,39 @@
+.f{
+    height: 0.5vh;
+    position: relative;
+}
+
+.f-bg{
+    width: 100%;
+    /* height: 50%; */
+    background-color: #59b256cc;
+    position: absolute;
+}
+
+.f-wrapper{
+    padding: 20px;
+    display: flex;
+    background-color: #59b256cc;
+}
+
+.f-bottom{
+    display: flex;
+}
+
+.f-items{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.items{
+    margin-left: 0.2px;
+}
+
+p{ 
+    width: 200vh;
+    font-size: 200%;
+    text-decoration: overline;
+    justify-content: center;
+    text-align: center;
+}
