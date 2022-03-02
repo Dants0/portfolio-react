@@ -12,14 +12,16 @@ const Intro = () => {
               <div className="i-title">
                 <div className="i-title-wrapper">
                   <div className="i-title-item">Front-End Developer</div>
-                  <div className="i-title-item">Graduating in computer science</div>
                   <div className="i-title-item">Sports fan</div>
-                  <div className="i-title-item">escrever</div>
-                  <div className="i-title-item">escrever</div>
+                  <div className="i-title-item">Gamer</div>
+                  <div className="i-title-item">Communicative</div>
+                  <div className="i-title-item">DevOps Future</div>
                 </div>
               </div>
               <p className="i-desc">
-                    I love coder
+              I am majoring in computer science. 
+              As well as I am taking online courses for a better understanding for the segment I decided to follow with my profession as a Fullstack web developer and later DevOps.
+              Here are some of my certificates and projects that I have completed so far
               </p>
             </div>
             <svg

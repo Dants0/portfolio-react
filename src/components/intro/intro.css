@@ -1,6 +1,6 @@
 .i {
     display: flex;
-    height: 100vh;
+    height: 110vh;
   }
   
   .i-left {
@@ -33,7 +33,7 @@
   }
   
   .i-title {
-    height: 50px;
+    height: 60px;
     overflow: hidden;
   }
   

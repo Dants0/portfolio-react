@@ -18,10 +18,10 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About</h1>
         <p className="a-sub">
-          escrever
+        Currently I practice and develop personal projects and courses that I take outside of college. 
         </p>
         <p className="a-desc">
-          escrever
+        I will update as I finalize courses and personal projects, providing links to the same.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
