@@ -67,7 +67,7 @@ return (
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, soluta culpa quae, provident voluptas eligendi nam atque nisi odio amet et accusamus eveniet repudiandae nemo expedita quasi. Quasi, esse ullam.</b> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda nulla tempora, quod ad ipsam sint consectetur autem. Iste dolorum reiciendis sapiente ea nam expedita, illo quia molestias? Sed, iusto atque.
+            <b>Send me an e-mail for more contact and information.</b>
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
@@ -75,7 +75,7 @@ return (
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
             <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
             <button>Submit</button>
-            {done && "Sending..."}
+            {done && "Sending..." + " I'll answer in a few days."}
           </form>
         </div>
       </div>
