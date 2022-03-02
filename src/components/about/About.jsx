@@ -1,5 +1,8 @@
 import "./about.css";
-import Award from "../../img/award.png";
+import gitandgithubcourse from "../../img/gitandgithubcourse.png";
+import unity3dcertificate from "../../img/unity3dcertificate.png"
+import webmodern from "../../img/webmodern.png"
+import wrench from "../../img/wrench.png"
 import React, {useContext} from "react";
 
 const About = () => {
@@ -24,11 +27,38 @@ const About = () => {
         I will update as I finalize courses and personal projects, providing links to the same.
         </p>
         <div className="a-award">
-          <img src={Award} alt="" className="a-award-img" />
+          <img src={gitandgithubcourse} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">inserir</h4>
+            <h4 className="a-award-title">Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)</h4>
             <p className="a-award-desc">
-              inserir
+            Aprenda do básico ao avançado Git e GitHub, uma abordagem prática para o controle de versão e manutenção de repositórios
+            </p>
+          </div>
+        </div>
+        <div className="a-award">
+          <img src={unity3dcertificate} alt="" className="a-award-img" />
+          <div className="a-award-texts">
+            <h4 className="a-award-title">Unity Game Development Build 2D & 3D Games</h4>
+            <p className="a-award-desc">
+            Learn Unity game design & 2D & 3D game development & make your own C# games in Unity 3D
+            </p>
+          </div>
+        </div>
+        <div className="a-award">
+          <img src={webmodern} alt="" className="a-award-img" />
+          <div className="a-award-texts">
+            <h4 className="a-award-title">Curso Web Moderno Completo com JavaScript 2021 + Projetos</h4>
+            <p className="a-award-desc">
+            Domine Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, Vue, Node, HTML5, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL
+            </p>
+          </div>
+        </div>
+        <div className="a-award">
+          <img src={wrench} alt="" className="a-award-img" />
+          <div className="a-award-texts">
+            <h4 className="a-award-title">In Progress</h4>
+            <p className="a-award-desc">
+            In Progress
             </p>
           </div>
         </div>
