@@ -1,0 +1,23 @@
+{
+  "main.css": "./static/css/main.bcca1891.chunk.css",
+  "main.js": "./static/js/main.14509ec1.chunk.js",
+  "main.js.map": "./static/js/main.14509ec1.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/js/2.12d49548.chunk.js": "./static/js/2.12d49548.chunk.js",
+  "static/js/2.12d49548.chunk.js.map": "./static/js/2.12d49548.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.a8756980bf111d981134efa09fe71933.js": "./precache-manifest.a8756980bf111d981134efa09fe71933.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/main.bcca1891.chunk.css.map": "./static/css/main.bcca1891.chunk.css.map",
+  "static/media/address.png": "./static/media/address.5d5af2b0.png",
+  "static/media/email.png": "./static/media/email.fb2ed1c2.png",
+  "static/media/gitandgithubcourse.png": "./static/media/gitandgithubcourse.3412a318.png",
+  "static/media/light.png": "./static/media/light.9ee7a0e5.png",
+  "static/media/linkedin.png": "./static/media/linkedin.aea39a15.png",
+  "static/media/me.png": "./static/media/me.2550e4a5.png",
+  "static/media/moon.png": "./static/media/moon.2c381230.png",
+  "static/media/unity3dcertificate.png": "./static/media/unity3dcertificate.a9975ab5.png",
+  "static/media/webmodern.png": "./static/media/webmodern.bb4da7c8.png",
+  "static/media/wrench.png": "./static/media/wrench.e4e1c695.png"
+}
