@@ -21,7 +21,6 @@
 }
 
 .f-items{
-    display: block;
     justify-content: center;
     align-items: center;
 }
@@ -30,7 +29,8 @@
     margin-left: 0.2px;
 }
 
-.f-links{ 
+.f-links{
+    display: flex; 
     width: 200vh;
     font-size: 200%;
     text-decoration: overline;
