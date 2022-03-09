@@ -2,7 +2,7 @@ import "./about.css";
 import gitandgithubcourse from "../../img/gitandgithubcourse.png";
 import unity3dcertificate from "../../img/unity3dcertificate.png"
 import webmodern from "../../img/webmodern.png"
-import wrench from "../../img/wrench.png"
+import calculator from "../../img/calculator.PNG"
 import React, {useContext} from "react";
 
 const About = () => {
@@ -54,11 +54,11 @@ const About = () => {
           </div>
         </div>
         <div className="a-award">
-          <img src={wrench} alt="" className="a-award-img" />
+          <img src={calculator} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">In Progress</h4>
+            <h4 className="a-award-title">Calculadora React</h4>
             <p className="a-award-desc">
-            In Progress
+            <a href="https://dants0.github.io/Calculadora-React/">Clique aqui para acessar o Projeto</a>
             </p>
           </div>
         </div>
