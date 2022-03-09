@@ -1,16 +1,17 @@
 {
   "main.css": "./static/css/main.f73a568e.chunk.css",
-  "main.js": "./static/js/main.f50b9750.chunk.js",
-  "main.js.map": "./static/js/main.f50b9750.chunk.js.map",
+  "main.js": "./static/js/main.3ae270a5.chunk.js",
+  "main.js.map": "./static/js/main.3ae270a5.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
   "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
   "static/js/2.ea10264a.chunk.js": "./static/js/2.ea10264a.chunk.js",
   "static/js/2.ea10264a.chunk.js.map": "./static/js/2.ea10264a.chunk.js.map",
   "index.html": "./index.html",
-  "precache-manifest.b2c331712e9f81e2569bff139423af53.js": "./precache-manifest.b2c331712e9f81e2569bff139423af53.js",
+  "precache-manifest.d8cf607e87b123853d006ff11959b6ef.js": "./precache-manifest.d8cf607e87b123853d006ff11959b6ef.js",
   "service-worker.js": "./service-worker.js",
   "static/css/main.f73a568e.chunk.css.map": "./static/css/main.f73a568e.chunk.css.map",
   "static/media/address.png": "./static/media/address.5d5af2b0.png",
+  "static/media/calculator.PNG": "./static/media/calculator.18fff450.PNG",
   "static/media/email.png": "./static/media/email.fb2ed1c2.png",
   "static/media/gitandgithubcourse.png": "./static/media/gitandgithubcourse.3412a318.png",
   "static/media/light.png": "./static/media/light.9ee7a0e5.png",
@@ -18,6 +19,5 @@
   "static/media/me.png": "./static/media/me.2550e4a5.png",
   "static/media/moon.png": "./static/media/moon.2c381230.png",
   "static/media/unity3dcertificate.png": "./static/media/unity3dcertificate.a9975ab5.png",
-  "static/media/webmodern.png": "./static/media/webmodern.bb4da7c8.png",
-  "static/media/wrench.png": "./static/media/wrench.e4e1c695.png"
+  "static/media/webmodern.png": "./static/media/webmodern.bb4da7c8.png"
 }
