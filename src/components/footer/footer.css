@@ -29,6 +29,11 @@
     margin-left: 0.2px;
 }
 
+.a-desc-items:hover{
+    text-decoration: underline;
+    animation: linear 2s 1s right;
+}
+
 .f-links{
     display: flex; 
     width: 200vh;

@@ -4,7 +4,6 @@ import './contact.css';
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
-// import Instagram from "../../img/instagram.png"
 import Linkedin from "../../img/linkedin.png"
 import emailjs from "emailjs-com";
 import {ThemeContext} from "../../context";
@@ -61,7 +60,7 @@ return (
             </div> */}
             <div className="c-info-item">
               <img className="c-icon" src={Linkedin} alt="" />
-              <a href="https://www.linkedin.com/in/guilherme-góes-8b72531b0/">Linkedin</a>
+              Linkedin
             </div>
           </div>
         </div>

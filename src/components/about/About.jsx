@@ -11,11 +11,6 @@ const About = () => {
       <div className="a-left">
         <div className="a-card bg"></div>
         <div className="a-card">
-          <img
-            src="https://media-exp1.licdn.com/dms/image/C4E03AQF5c42DaLq2OQ/profile-displayphoto-shrink_200_200/0/1595483355369?e=1651104000&v=beta&t=YTdbAaTMjZG_X2SaRMYDaUIM79-Xtwje5xiLDRQVdz0"
-            alt=""
-            className="a-img"
-          />
         </div>
       </div>
       <div className="a-right">
@@ -54,11 +49,11 @@ const About = () => {
           </div>
         </div>
         <div className="a-award">
-          <img src={calculator} alt="" className="a-award-img" />
+            <a href="https://dants0.github.io/Calculadora-React/"><img src={calculator} alt="" className="a-award-img" /></a>
           <div className="a-award-texts">
             <h4 className="a-award-title">Calculadora React</h4>
             <p className="a-award-desc">
-            <a href="https://dants0.github.io/Calculadora-React/">Clique aqui para acessar o Projeto</a>
+            Calculadora que desenvolvi com React Js
             </p>
           </div>
         </div>

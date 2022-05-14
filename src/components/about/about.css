@@ -21,7 +21,7 @@
     position: absolute;
     top: 50px;
     left: 50px;
-    background-color: rgba(143, 130, 130, 0.651);
+    background-color: #59b2566c;
   }
   
   .a-card {
@@ -29,7 +29,7 @@
     height: 70vh;
     border-radius: 30px;
     position: relative;
-    overflow: hidden;
+    background-color: #59b256;
   }
   
   .a-img {
