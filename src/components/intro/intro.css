@@ -92,6 +92,7 @@
   
   @media screen and (max-width: 480px) {
     .i {
+      display: flex;
       flex-direction: column;
     }
   
@@ -101,11 +102,13 @@
       align-items: center;
       justify-content: center;
       text-align: center;
-      height: 100%;
+      height:100%;
     }
   
     .i-desc{
-      display: none;
+      display: flex;
+      flex-direction: column;
+      margin-top: 2rem;
     }
     
   }

@@ -54,12 +54,8 @@ return (
               <img className="c-icon" src={Address} alt="" />
               Rua Professor Aloisio De Carvalho Filho, 251, Salvador Ba
             </div>
-            {/* <div className="c-info-item">
-              <img className="c-icon" src={Instagram} alt="" />
-              Instagram
-            </div> */}
             <div className="c-info-item">
-              <img className="c-icon" src={Linkedin} alt="" />
+              <a href="https://www.linkedin.com/in/guilherme-góes-8b72531b0/"><img className="c-icon" src={Linkedin} alt="" /></a>
               Linkedin
             </div>
           </div>

@@ -1,5 +1,4 @@
 import React from 'react'
-import Me from "../../img/me.png"
 import "./intro.css"
 
 const Intro = () => {
