@@ -1,5 +1,5 @@
 import "./about.css";
-import gitandgithubcourse from "../../img/gitandgithubcourse.png";
+import lolkipedia from "../../img/lolkipedia.png";
 import unity3dcertificate from "../../img/unity3dcertificate.png"
 import webmodern from "../../img/webmodern.png"
 import calculator from "../../img/calculator.PNG"
@@ -22,11 +22,11 @@ const About = () => {
         I will update as I finalize courses and personal projects, providing links to the same.
         </p>
         <div className="a-award">
-          <img src={gitandgithubcourse} alt="" className="a-award-img" />
+          <a href="https://lolkipedia.netlify.app"><img src={lolkipedia} alt="" className="a-award-img" /></a>
           <div className="a-award-texts">
-            <h4 className="a-award-title">Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)</h4>
+            <h4 className="a-award-title">Lolkipedia</h4>
             <p className="a-award-desc">
-            Aprenda do básico ao avançado Git e GitHub, uma abordagem prática para o controle de versão e manutenção de repositórios
+            Wikipédia do jogo eletrônico League Of Legends
             </p>
           </div>
         </div>
