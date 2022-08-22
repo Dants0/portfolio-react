@@ -1,22 +1,22 @@
 {
-  "main.css": "./static/css/main.25b9e025.chunk.css",
-  "main.js": "./static/js/main.870c8b56.chunk.js",
-  "main.js.map": "./static/js/main.870c8b56.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-  "static/js/2.e5f1a430.chunk.js": "./static/js/2.e5f1a430.chunk.js",
-  "static/js/2.e5f1a430.chunk.js.map": "./static/js/2.e5f1a430.chunk.js.map",
-  "index.html": "./index.html",
-  "precache-manifest.6e71fd48d4c9575c7388aa704e86685e.js": "./precache-manifest.6e71fd48d4c9575c7388aa704e86685e.js",
-  "service-worker.js": "./service-worker.js",
-  "static/css/main.25b9e025.chunk.css.map": "./static/css/main.25b9e025.chunk.css.map",
-  "static/media/address.png": "./static/media/address.5d5af2b0.png",
-  "static/media/calculator.PNG": "./static/media/calculator.18fff450.PNG",
-  "static/media/email.png": "./static/media/email.fb2ed1c2.png",
-  "static/media/gitandgithubcourse.png": "./static/media/gitandgithubcourse.3412a318.png",
-  "static/media/light.png": "./static/media/light.9ee7a0e5.png",
-  "static/media/linkedin.png": "./static/media/linkedin.aea39a15.png",
-  "static/media/moon.png": "./static/media/moon.2c381230.png",
-  "static/media/unity3dcertificate.png": "./static/media/unity3dcertificate.a9975ab5.png",
-  "static/media/webmodern.png": "./static/media/webmodern.bb4da7c8.png"
+  "files": {
+    "main.css": "./static/css/main.cd43a220.css",
+    "main.js": "./static/js/main.6bb79ebe.js",
+    "static/media/unity3dcertificate.png": "./static/media/unity3dcertificate.fba61993ba20fc86cc4a.png",
+    "static/media/webmodern.png": "./static/media/webmodern.0ff41e26de6d3f72c88f.png",
+    "static/media/light.png": "./static/media/light.70a336df16bc58abe664.png",
+    "static/media/email.png": "./static/media/email.54785eb775b1d4f5533c.png",
+    "static/media/lolkipedia.png": "./static/media/lolkipedia.3fc3b057ff54ed2adeff.png",
+    "static/media/calculator.PNG": "./static/media/calculator.9eea5892171ab45c6795.PNG",
+    "static/media/linkedin.png": "./static/media/linkedin.329c8d526c26fe981b94.png",
+    "static/media/moon.png": "./static/media/moon.c10a569680550e4fa3cb.png",
+    "static/media/address.png": "./static/media/address.be223bd5ac60d27a5893.png",
+    "index.html": "./index.html",
+    "main.cd43a220.css.map": "./static/css/main.cd43a220.css.map",
+    "main.6bb79ebe.js.map": "./static/js/main.6bb79ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd43a220.css",
+    "static/js/main.6bb79ebe.js"
+  ]
 }
