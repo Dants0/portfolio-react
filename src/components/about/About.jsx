@@ -1,6 +1,6 @@
 import "./about.css";
 import lolkipedia from "../../img/lolkipedia.png";
-import unity3dcertificate from "../../img/unity3dcertificate.png"
+import chatbot from "../../img/chatbot.png"
 import webmodern from "../../img/webmodern.png"
 import calculator from "../../img/calculator.PNG"
 import React, {useContext} from "react";
@@ -16,10 +16,10 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About</h1>
         <p className="a-sub">
-        Currently I practice and develop personal projects and courses that I take outside of college. 
+        Atualmente eu pratico e desenvolvo projetos e cursos pessoais que faço fora da faculdade.
         </p>
         <p className="a-desc">
-        I will update as I finalize courses and personal projects, providing links to the same.
+        Vou me atualizar à medida que finalizar os cursos e projetos pessoais, fornecendo links para os mesmos.
         </p>
         <div className="a-award">
           <a href="https://lolkipedia.netlify.app"><img src={lolkipedia} alt="" className="a-award-img" /></a>
@@ -31,11 +31,11 @@ const About = () => {
           </div>
         </div>
         <div className="a-award">
-          <img src={unity3dcertificate} alt="" className="a-award-img" />
+          <a href="https://chat-bot-with-react-simple-chatbot.vercel.app"><img src={chatbot} alt="" className="a-award-img" /></a>
           <div className="a-award-texts">
-            <h4 className="a-award-title">Unity Game Development Build 2D & 3D Games</h4>
+            <h4 className="a-award-title">Chat Bot</h4>
             <p className="a-award-desc">
-            Learn Unity game design & 2D & 3D game development & make your own C# games in Unity 3D
+            Chat Bot desenvolvido usando React e React Simple Bot
             </p>
           </div>
         </div>

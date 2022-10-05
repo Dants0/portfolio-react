@@ -6,21 +6,21 @@ const Intro = () => {
         <div className="i">
           <div className="i-left">
             <div className="i-left-wrapper">
-              <h2 className="i-intro">Hello, My name is</h2>
+              <h2 className="i-intro">Olá, meu nome é</h2>
               <h1 className="i-name">Guilherme Dantas</h1>
               <div className="i-title">
                 <div className="i-title-wrapper">
                   <div className="i-title-item">Front-End Developer</div>
-                  <div className="i-title-item">Sports fan</div>
+                  <div className="i-title-item">Sports Fan</div>
                   <div className="i-title-item">Gamer</div>
                   <div className="i-title-item">Communicative</div>
-                  <div className="i-title-item">DevOps Future</div>
+                  <div className="i-title-item">Technology Enthusiast</div>
                 </div>
               </div>
               <p className="i-desc">
-              I am majoring in computer science. 
-              As well as I am taking online courses for a better understanding for the segment I decided to follow with my profession as a Fullstack web developer and later DevOps.
-              Here are some of my certificates and projects that I have completed so far
+              Estou me formando em ciência da computação, 6º semestre. 
+              Bem como estou fazendo cursos online para uma compreensão profunda dos assuntos relacionados com a minha profissão.
+              Aqui estão alguns de meus certificados e projetos que completei até agora.
               </p>
             </div>
             <svg
