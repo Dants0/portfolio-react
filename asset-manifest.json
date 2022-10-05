@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.cd43a220.css",
-    "main.js": "./static/js/main.6bb79ebe.js",
-    "static/media/unity3dcertificate.png": "./static/media/unity3dcertificate.fba61993ba20fc86cc4a.png",
+    "main.css": "./static/css/main.f10b5d6e.css",
+    "main.js": "./static/js/main.b31e95e5.js",
     "static/media/webmodern.png": "./static/media/webmodern.0ff41e26de6d3f72c88f.png",
     "static/media/light.png": "./static/media/light.70a336df16bc58abe664.png",
     "static/media/email.png": "./static/media/email.54785eb775b1d4f5533c.png",
     "static/media/lolkipedia.png": "./static/media/lolkipedia.3fc3b057ff54ed2adeff.png",
+    "static/media/chatbot.png": "./static/media/chatbot.58fbc290313adac7d19f.png",
     "static/media/calculator.PNG": "./static/media/calculator.9eea5892171ab45c6795.PNG",
     "static/media/linkedin.png": "./static/media/linkedin.329c8d526c26fe981b94.png",
     "static/media/moon.png": "./static/media/moon.c10a569680550e4fa3cb.png",
-    "static/media/address.png": "./static/media/address.be223bd5ac60d27a5893.png",
     "index.html": "./index.html",
-    "main.cd43a220.css.map": "./static/css/main.cd43a220.css.map",
-    "main.6bb79ebe.js.map": "./static/js/main.6bb79ebe.js.map"
+    "main.f10b5d6e.css.map": "./static/css/main.f10b5d6e.css.map",
+    "main.b31e95e5.js.map": "./static/js/main.b31e95e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd43a220.css",
-    "static/js/main.6bb79ebe.js"
+    "static/css/main.f10b5d6e.css",
+    "static/js/main.b31e95e5.js"
   ]
 }
